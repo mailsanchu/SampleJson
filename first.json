@@ -1,0 +1,32 @@
+
+{
+	"id": "string",
+	"resourceType": "string",
+	"vendorItemId": "string",
+	"vendorItemType": "string",
+	"title": "string",
+	"description": "string",
+	"metadataLanguage": "string",
+	"genres": [
+		"string"
+	],
+	"tmsid": "string",
+	"categories": [
+		"string"
+	],
+	"originalNetwork": "string",
+	"originalNetworkId": "string",
+	"parentalRating": [
+		"string"
+	],
+	"tvAdvisories": [
+		"string"
+	],
+	"seasons": [
+		{
+			"seasonNumber": 0,
+			"seasonId": "string"
+		}
+	]
+}
+
